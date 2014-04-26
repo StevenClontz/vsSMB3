@@ -135,6 +135,8 @@ must use items to reduce the total number to 3 or less.
 To contribute, open an Issue with feedback on the game, or submit a Pull Request with new variants
 or corrections. Hope you enjoy vsSMB3!
 
+(Thanks to @ZSarver for helping me refine these rules in their early stages.)
+
 <!-- references -->
 [world_1]: https://raw.githubusercontent.com/StevenClontz/VersusSMB3/master/world_1.png "World 1"
 [normal_level]: https://raw.githubusercontent.com/StevenClontz/VersusSMB3/master/normal_level.png "Normal Level"
