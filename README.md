@@ -115,7 +115,8 @@ Experienced players may wish to add to the base rules to add additional challeng
 
 Gaining Extra Lives by any means 
 (1up Mushrooms, Goal Cards, Coins, etc.) is penalized by awarding the opponent a
-Victory Point for each Extra Life gained.
+Victory Point for each Extra Life gained. Lives "gained" from Continuing after
+a Game Over are not penalized.
 
 The game no longer ends at 4.5+ Victory Points; the player with the most Victory
 Points at the end of World 8 wins the game.
