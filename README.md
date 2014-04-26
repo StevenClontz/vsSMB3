@@ -12,7 +12,7 @@ the glory?
 
 Most levels leave Clear Panels with an "M" or "L" to mark the player who 
 defeated it. The player who had a bigger impact on the world map gets credit
-for beating the world, and the player who beats the most world wins.
+for beating the world, and the player who beats the most worlds wins.
 
 ![World 1][world_1]
 
